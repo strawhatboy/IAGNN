@@ -1,0 +1,11 @@
+*.pyc
+.idea/
+.idea
+.idea/*
+logs
+ckpt
+__pycache__
+*.out
+*.pdf
+.vscode
+.ipynb_checkpoints

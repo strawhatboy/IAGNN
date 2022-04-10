@@ -1,0 +1,9 @@
+dgl~=0.6.0.post1
+ipdb~=0.13.9
+numpy~=1.21.2
+pretty_errors~=1.2.24
+PyMySQL~=1.0.2
+scikit_learn~=1.0.2
+torch~=1.8.1
+TorchSnooper~=0.8
+tqdm~=4.62.3
