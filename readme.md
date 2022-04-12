@@ -37,6 +37,29 @@ or by `pip`:
 pip install -r requirements.txt
 ```
 
+## Dataset
+
+[GoogleDrive](https://drive.google.com/drive/folders/1ZuR55uY50QPYNygo3Tn2zeYVmr4Ab_Ta?usp=sharing) [BaiduPan](https://pan.baidu.com/s/1Chi5PxGX5NM-iM4oL-JrsQ) (提取码：2jd1)
+
+Put the downloaded `*.pkl` files by following this file structure:
+
+```bash
+|--dataset
+   |--diginetica_x
+      |--train.pkl
+      |--test.pkl
+   |--jdata_cd
+      |--train.pkl
+      |--test.pkl
+   |--yc_BT_4
+      |--train.pkl
+      |--test.pkl
+|--IAGNN	# Souce code of this repository
+   |--train.py
+   |--IAGNN.py
+   ...
+```
+
 ## How to train
 
 ```bash
