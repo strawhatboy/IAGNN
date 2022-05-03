@@ -7,11 +7,38 @@ This is the official repository of paper *Intention Adaptive Graph Neural Networ
 If you found this work helpful, please kindly cite the paper as follows:
 
 ```bibtex
-@article{cui2021intention,
-  title={Intention Adaptive Graph Neural Network for Category-aware Session-based Recommendation},
-  author={Cui, Chuan and Shen, Qi and Zhu, Shixuan and Pang, Yitong and Zhang, Yiming and Gao, Hanning and Wei, Zhihua},
-  journal={arXiv preprint arXiv:2112.15352},
-  year={2021}
+@inproceedings{DBLP:conf/dasfaa/CuiSZPZGW22,
+  author    = {Chuan Cui and
+               Qi Shen and
+               Shixuan Zhu and
+               Yitong Pang and
+               Yiming Zhang and
+               Hanning Gao and
+               Zhihua Wei},
+  editor    = {Arnab Bhattacharya and
+               Janice Lee and
+               Mong Li and
+               Divyakant Agrawal and
+               P. Krishna Reddy and
+               Mukesh K. Mohania and
+               Anirban Mondal and
+               Vikram Goyal and
+               Rage Uday Kiran},
+  title     = {Intention Adaptive Graph Neural Network for Category-Aware Session-Based
+               Recommendation},
+  booktitle = {Database Systems for Advanced Applications - 27th International Conference,
+               {DASFAA} 2022, Virtual Event, April 11-14, 2022, Proceedings, Part
+               {II}},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {13246},
+  pages     = {150--165},
+  publisher = {Springer},
+  year      = {2022},
+  url       = {https://doi.org/10.1007/978-3-031-00126-0\_10},
+  doi       = {10.1007/978-3-031-00126-0\_10},
+  timestamp = {Fri, 29 Apr 2022 14:50:39 +0200},
+  biburl    = {https://dblp.org/rec/conf/dasfaa/CuiSZPZGW22.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```
 
@@ -39,7 +66,7 @@ pip install -r requirements.txt
 
 ## Dataset
 
-[GoogleDrive](https://drive.google.com/drive/folders/1ZuR55uY50QPYNygo3Tn2zeYVmr4Ab_Ta?usp=sharing) [BaiduPan](https://pan.baidu.com/s/1Chi5PxGX5NM-iM4oL-JrsQ) (提取码：2jd1)
+[GoogleDrive](https://drive.google.com/drive/folders/1ZuR55uY50QPYNygo3Tn2zeYVmr4Ab_Ta?usp=sharing) or [BaiduPan](https://pan.baidu.com/s/1Chi5PxGX5NM-iM4oL-JrsQ) (提取码：2jd1)
 
 Put the downloaded `*.pkl` files by following this file structure:
 
